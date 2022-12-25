@@ -1,0 +1,15 @@
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\bin\Debug\net6.0\Task52.exe
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\bin\Debug\net6.0\Task52.deps.json
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\bin\Debug\net6.0\Task52.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\bin\Debug\net6.0\Task52.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\refint\Task52.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw7\Task52\obj\Debug\net6.0\ref\Task52.dll
