@@ -49,7 +49,7 @@ void PrintArray(string message, double[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j] } ");
+            Console.Write($"{matrix[i, j]} ");
         }
 
         Console.WriteLine();
@@ -61,4 +61,4 @@ int n = GetNumber("Enter the number of columns:");
 
 double[,] matrix = InitRandomMatrix(m, n);
 
-PrintArray($"Your random matrix of random real numbers with {m} rows and {n} columns:", matrix);
+PrintArray($"Your matrix of random real numbers with {m} rows and {n} columns:", matrix);
